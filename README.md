@@ -31,23 +31,23 @@ Quickly generate geometry and mesh for your model using the command `npx gltfjsx
 
 ### Landing Page
 
-![Landing Page](public\images\pex1.JPG)
+![Landing Page](public/images/pex1.JPG)
 
 ### Color Picker
 
-![Color Picker](public\images\pex2.JPG)
+![Color Picker](public/images/pex2.JPG)
 
 ### Setting Texture & Logo
 
-![Setting Texture](public\images\pex3.JPG)
+![Setting Texture](public/images/pex3.JPG)
 
 ### Setting AI Texture
 
-![Setting AI Texture ](public\images\pex4.JPG)
+![Setting AI Texture ](public/images/pex4.JPG)
 
 ### Switching Product
 
-![Changing The Model](public\images\pex5.JPG)
+![Changing The Model](public/images/pex5.JPG)
 
 ## Contributing
 
